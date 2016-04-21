@@ -18,7 +18,7 @@
 /** The name of the database for WordPress */
 define('WP_REDIS_HOST','wordpress.ug7ewu.0001.euw1.cache.amazonaws.com');
 define('WP_HOME','http://wordpress-1656493999.eu-west-1.elb.amazonaws.com');
-define('WP_SITEURL','http://wordpress-1940433797.eu-west-1.elb.amazonaws.com');
+define('WP_SITEURL','http://wordpress-1656493999.eu-west-1.elb.amazonaws.com');
 
 define('DB_NAME', 'wordpress');
 
